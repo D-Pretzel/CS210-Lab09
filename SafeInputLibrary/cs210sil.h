@@ -1,7 +1,7 @@
 /* cs210sil.h
  * =============================================================
- *    Name:
- * Section:
+ *    Name: David Petzold
+ * Section: T6/7
  * Purpose: Creating a safe input library
  * =============================================================
  */
@@ -17,8 +17,8 @@ int getIntegerSafe();
 /** ----------------------------------------------
  * @brief safely read one long from stdin
  * @return the long value read (if successful)
- * pre none
- * post function exits if no long was read
+ * @pre none
+ * @post function exits if no long was read
  */
 long getLongSafe();
 

@@ -1,8 +1,8 @@
 /* lab09-02.c
  * =============================================================
- *    Name:
- * Section:
- * Purpose: Tests your lab09-02 
+ *    Name: David Petzold
+ * Section: T6/7
+ * Purpose: Tests your lab09-02
  * =============================================================
  */
 
