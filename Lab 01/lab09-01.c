@@ -73,7 +73,7 @@ int main(void) {
 
 
     // Check to See if the Entries Match
-    if (repeatPass == newPass){
+    if (strcmp(newPass, repeatPass) == 0){
         printf("new password accepted\n");
         printf("it will be stored as: %0x32u\n", ELFHash(newPass, newPassLen));
     }
